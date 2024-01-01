@@ -1,0 +1,16 @@
+body{
+    background: #000000;
+    color: #ffffff;
+    margin: 0 auto;
+    width: 80vw;
+}
+
+img{
+    width: 20em;
+    float: right;
+}
+
+a {
+    color: #ffffff;
+    font-weight: bolder;
+}
